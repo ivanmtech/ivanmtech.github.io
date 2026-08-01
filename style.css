@@ -106,7 +106,7 @@ table.bio {
 
 table.bio td.left {
 	background-color: #f9f9f9;
-	border: 1px #aaa solid;
+	border: 2px #8d281e solid;
 	vertical-align: top;
 	padding: 7px;
 	width: 50%;
@@ -114,7 +114,7 @@ table.bio td.left {
 
 table.bio td.right {
 	background-color: #f9f9f9;
-	border: 1px #aaa solid;
+	border: 2px #8d281e solid;
 	vertical-align: top;
 	padding: 7px;
 	width: 50%;
